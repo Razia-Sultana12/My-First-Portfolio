@@ -1,1 +1,22 @@
 span{color: coral;}
+body{font-family: 'Poppins', sans-serif;
+margin: 0%;}
+h1{font-size: 50px;}
+.half{width: 50%;
+padding-left:7%;}
+p{text-align: justify;}
+.link-button{text-decoration: none;
+background-image: linear-gradient(rgb(236, 116, 73), tomato);
+padding: 2% 7%;
+border-radius: 5px;
+color: whitesmoke;
+font-weight: bold;}
+.section1{display: flex;
+    background-image: url(image/top-banner.png);
+background-repeat: no-repeat;}
+.section2{display: flex;
+background-image: url(image/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;}
+
+
