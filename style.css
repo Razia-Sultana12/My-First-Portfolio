@@ -1,22 +1,36 @@
-span{color: coral;}
-body{font-family: 'Poppins', sans-serif;
-margin: 0%;}
-h1{font-size: 50px;}
-.half{width: 50%;
-padding-left:7%;}
-p{text-align: justify;}
+body{margin-0;
+font-family: 'Poppins', sans-serif;}
 .link-button{text-decoration: none;
-background-image: linear-gradient(rgb(236, 116, 73), tomato);
-padding: 2% 7%;
 border-radius: 5px;
-color: whitesmoke;
-font-weight: bold;}
-.section1{display: flex;
-    background-image: url(image/top-banner.png);
-background-repeat: no-repeat;}
-.section2{display: flex;
-background-image: url(image/dream-bg.png);
+padding: 10px 25px;
+text-align: center;
+background-image:linear-gradient(coral, rgb(235, 69, 40));
+font-weight: bold;
+color: whitesmoke;}
+h1{font-size: 45px;}
+.orange{color: orange;}
+h2{font-size: 40px;}
+footer{text-align: center;}
+.equal{display: flex;
+text-align: justify;
+background-image: url(image/top-banner.png);
 background-repeat: no-repeat;
-background-position: right;}
+padding-left: 50px;
+margin:0px;}
+.equally{display: flex;
+    text-align:justify;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 100px;
+    margin:0px;}
+.equality{display: flex;
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-bottom: 100px;
+    margin:0px;
+}
+
 
 
